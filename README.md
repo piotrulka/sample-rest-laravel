@@ -1,4 +1,4 @@
-# Wise-people
+# Simple REST project
 
 ## Do poprawy:
 
